@@ -3,7 +3,7 @@
 
 Codes Over ℤ₄ is a package that expand the current functionality for codes over
 ℤ₄ in Magma. Specifically, there are functions which give new constructions for
-some families of codes over ℤ₄ and constructions to obtain new codes over Z4
+some families of codes over ℤ₄ and constructions to obtain new codes over ℤ₄
 from given codes over ℤ₄. Moreover, efficient functions for computing the rank
 and dimension of the kernel of any code over ℤ₄ are also include, as well as
 general functions to compute the coset leaders for a subcode in a code over
