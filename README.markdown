@@ -1,24 +1,24 @@
-## The *Codes Over Z4* Package
+## The *Codes Over ℤ₄* Package
 -----------------------------
 
-Codes Over Z4 is a package that expand the current functionality for codes over
-Z4 in Magma. Specifically, there are functions which give new constructions for
-some families of codes over Z4 and constructions to obtain new codes over Z4
-from given codes over Z4. Moreover, efficient functions for computing the rank
-and dimension of the kernel of any code over Z4 are also include, as well as
+Codes Over ℤ₄ is a package that expand the current functionality for codes over
+ℤ₄ in Magma. Specifically, there are functions which give new constructions for
+some families of codes over ℤ₄ and constructions to obtain new codes over Z4
+from given codes over ℤ₄. Moreover, efficient functions for computing the rank
+and dimension of the kernel of any code over ℤ₄ are also include, as well as
 general functions to compute the coset leaders for a subcode in a code over
-$\Z_4$. Finally, there are also functions to compute the permutation
-automorphism group for Hadamard and extended perfect codes over $\Z_4$, and
+ℤ₄. Finally, there are also functions to compute the permutation
+automorphism group for Hadamard and extended perfect codes over ℤ₄, and
 their cardinal.
 
-Codes Over Z4 consists of one file written in the Magma language. Please send
+Codes Over ℤ₄ consists of one file written in the Magma language. Please send
 your bug  reports to Combinatorics, Coding and Security Group (CCSG) 
 at support-ccsg@deic.uab.cat or if it is a Magma problem to magma-trouble
 (magma@maths.usyd.edu.au). See the section below.
 
-Codes Over Z4 was originally written in Magma by Jaume Pernas (supervised by
+Codes Over ℤ₄ was originally written in Magma by Jaume Pernas (supervised by
 Mercè Villanueva and Jaume Pujol) as a support for a research project on
-Z4-Linear codes developed by the  Combinatorics, Coding and Security Group
+ℤ₄-Linear codes developed by the  Combinatorics, Coding and Security Group
 (CCSG) within the Department of Information  and Communications Engineering
 (dEIC) at the Autonomous University of Barcelona (UAB).
 
@@ -26,7 +26,7 @@ Z4-Linear codes developed by the  Combinatorics, Coding and Security Group
 ## Composition of the package
 ----------------------------
 
-The Codes Over Z4 package is composed of four directories:
+The Codes Over ℤ₄ package is composed of four directories:
 
 - /src: The file to attach to Magma CodesOverZ4.m.
 - /doc: The manual to use the package in pdf format.
@@ -36,21 +36,21 @@ The Codes Over Z4 package is composed of four directories:
              as soon as the package is attached.			
 
 
-## Using/Installing *Codes Over Z4*
+## Using/Installing *Codes Over ℤ₄*
 ----------------------------------
 
 Since Magma version 2.15-15 part of this package is included in magma 
 default functions and it is not necessary to be installed. However, for
 older versions and for new functions the package can be installed as we show:
 
-To use Codes Over Z4 temporally (as a Magma Package) unpack the archive 
+To use Codes Over ℤ₄ temporally (as a Magma Package) unpack the archive 
 file in a directory. Enter to the `./src` directory. Call Magma and then write:
 
    ```
    > Attach("CodesOverZ4.m");
    ```
 
-#### Install Codes Over Z4 permanent (as a Magma Package):
+#### Install Codes Over ℤ₄ permanent (as a Magma Package):
 
 1. Unpack the archive file in a directory.
 
