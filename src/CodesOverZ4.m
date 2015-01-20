@@ -24,15 +24,15 @@
 
 
 /************************************************************/
-/*								                            */
+/*                                                          */
 /* Project name: Codes over Z4 in MAGMA	                    */
-/* File name: CodesOverZ4.m	        			            */
-/*								                            */
-/* Comment: Package developed within the CCSG group      	*/
-/*								                            */
-/* Authors: Jaume Pernas, Jaume Pujol and Merce Villanueva	*/
-/*								                            */
-/* Revision version and last date: v1.2   15-03-2010		*/
+/* File name: CodesOverZ4.m                                 */
+/*                                                          */
+/* Comment: Package developed within the CCSG group         */
+/*                                                          */
+/* Authors: Jaume Pernas, Jaume Pujol and Merce Villanueva  */
+/*                                                          */
+/* Revision version and last date: v1.2   15-03-2010        */
 /*                                 v1.3   18-03-2011        */
 /*                                 v1.4   29-02-2012        */
 /*                                                          */
