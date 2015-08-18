@@ -28,12 +28,12 @@ Mercè Villanueva and Jaume Pujol) as a support for a research project on
 
 The Codes Over ℤ₄ package is composed of four directories:
 
-- /src: The file to attach to Magma CodesOverZ4.m.
-- /doc: The manual to use the package in pdf format.
-- /test: A sample code that tests the package. They can  be 
-         loaded in Magma as soon as the package is attached.
-- /examples: Examples from the manual. They can be loaded in Magma 
-             as soon as the package is attached.			
+- `/src`: The file to attach to Magma CodesOverZ4.m.
+- `/doc`: The manual to use the package in pdf format.
+- `/test`: A sample code that tests the package. They can  be 
+           loaded in Magma as soon as the package is attached.
+- `/examples`: Examples from the manual. They can be loaded in Magma 
+               as soon as the package is attached.			
 
 
 ## Using/Installing *Codes Over ℤ₄*
@@ -87,8 +87,8 @@ reproduce the problem; so please include:
    Solaris 2.8, IRIX 6.5, Windows, ...
  * A script that demonstrates the bug, along with a description
    of why it's a bug (e.g.  by  adding comments to  the  script 
-   - recall  comments  in Magma  begin  with  a  //  or between 
-   /*  */).
+   - recall  comments  in Magma  begin  with  a  `//`  or between 
+   `/*  */`).
 
 
  **March 5, 2012**
